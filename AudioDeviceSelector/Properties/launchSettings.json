@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AudioDeviceSelector": {
+      "commandName": "Project",
+      "commandLineArgs": "--list"
+    }
+  }
+}
